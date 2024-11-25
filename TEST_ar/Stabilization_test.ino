@@ -43,7 +43,7 @@ int state;
 double upper, lower;
 
 float initialAltitude;
-float PressureAtSea = 1003.80; //CHANGE VALUE DEPENDING ON YOUR LOCATION
+float PressureAtSea = 1013.80; //CHANGE VALUE DEPENDING ON YOUR LOCATION
 float alpha = 0.85;
 float maxAltitude = 0;
 double alphaBaro = 1;
